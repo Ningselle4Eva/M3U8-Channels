@@ -4,6 +4,6 @@
 #EXT-X-MEDIA-SEQUENCE:0
 
 #EXTINF:10.0,
-http://170.254.18.106/FX/index.m3u8
+https://tv.prectv5.sbs/live/fx.m3u8
 
 #EXT-X-ENDLIST
